@@ -14,8 +14,8 @@ const ProjectCardData = [
     imgSrc: pro2,
     title: "Food Order System Web App",
     text: "Automate existing food ordering system using computerized equipment and software. Store valuable data for longer periods with easy access and manipulation. User can order food conveniently and admin can manage food, categories, and orders.",
-    view: "https://2tab.com/main/landingPage",
-    source: "",
+    view: "https://github.com/lalit58/Food-Order-System",
+    source: "https://github.com/lalit58/Food-Order-System",
   },
   {
     imgSrc: pro3,

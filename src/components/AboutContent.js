@@ -19,7 +19,7 @@ const AboutContent = () => {
           (Development), A Way to perseverance as an artist.
         </p>
         <Link to={"/contact"}>
-          <button className="btn">Conatct</button>
+          <button className="btn">Contact</button>
         </Link>
       </div>
       <div className="right">
